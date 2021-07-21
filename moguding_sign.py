@@ -69,10 +69,10 @@ class mgd_sign:
     def set_accountInfo(self,user_name,password,address:str,city:str):
         '''
         设置用户信息，签到信息
-        :param user_name: 账号
-        :param password: 密码
-        :param address: 地址
-        :param city: 城市
+        :param user_name: 17748899526
+        :param password: Wdd080233
+        :param address: 中国甘肃省兰州市城关区临夏路57号
+        :param city: 兰州
         :return:
         '''
         self.user = user_name
